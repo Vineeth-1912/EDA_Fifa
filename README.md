@@ -15,13 +15,8 @@ Correlation analysis between player skills and market value
 
 Insights into trends and patterns influencing player ratings and transfers
 
-Technologies Used
+Technologies Used:
 Python
-
 pandas
-
-matplotlib
-
 seaborn
-
-Jupyter Notebook**
+Jupyter Notebook
